@@ -1,3 +1,10 @@
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Shaheed+Patvekar;I'm+a+B.Tech+Computer+Science+student"
+    alt="Typing Animation"
+  />
+</p>
+
 # 💫 About Me:
 I am a Computer Engineering student passionate about programming and technology.  <br>Currently learning Web Development, Data Structures, and Algorithms.<br> Languages & Technologies:<br>- C/C++, Python, Java, HTML/CSS, Git & GitHub<br>Database: MySQL
 
